@@ -1,5 +1,6 @@
 # Weather App React
 
+<img width="1011" alt="Screenshot 2021-10-30 at 6 12 49 PM" src="https://user-images.githubusercontent.com/56961555/139533279-eb84e2b0-9ce1-4c00-95e1-aac5b8bd0819.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
