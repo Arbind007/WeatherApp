@@ -1,7 +1,5 @@
 # Weather App React
-<img src='./readme-weather/mendoza.png' width='700px'>
 
-<img src='./readme-weather/mexico.png' width='700px'>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
