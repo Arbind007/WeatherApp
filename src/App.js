@@ -62,7 +62,7 @@ function App() {
           <div className="header-div">
             <div>
               <div className="data">
-                <img src={'https://openweathermap.org/img/wn/' + allData.weatherIcons + '@2x.png'} height="100px" width="100px"/>
+                <img src={'https://openweathermap.org/img/wn/' + allData.weatherIcons + '@2x.png'} height="100px" width="100px" alt="Weather App"/>
                 <h1 className="title">
                   {allData.city}
                 </h1>
